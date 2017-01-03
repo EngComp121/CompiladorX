@@ -1,0 +1,15 @@
+C:\Users\Marcos\documents\visual studio 2010\Projects\CompiladorX\CompiladorX\obj\x86\Debug\CompiladorX.Form1.resources
+C:\Users\Marcos\documents\visual studio 2010\Projects\CompiladorX\CompiladorX\obj\x86\Debug\CompiladorX.Properties.Resources.resources
+C:\Users\Marcos\documents\visual studio 2010\Projects\CompiladorX\CompiladorX\obj\x86\Debug\CompiladorX.csproj.GenerateResource.Cache
+C:\Users\5121068\Downloads\CompiladorX\CompiladorX\CompiladorX\obj\x86\Debug\CompiladorX.csprojResolveAssemblyReference.cache
+C:\Users\5121068\Downloads\CompiladorX\CompiladorX\CompiladorX\obj\x86\Debug\CompiladorX.Form1.resources
+C:\Users\5121068\Downloads\CompiladorX\CompiladorX\CompiladorX\obj\x86\Debug\CompiladorX.Properties.Resources.resources
+C:\Users\5121068\Downloads\CompiladorX\CompiladorX\CompiladorX\obj\x86\Debug\CompiladorX.csproj.GenerateResource.Cache
+C:\Users\Marcos\Documents\Visual Studio 2010\Projects\CompiladorXX\CompiladorX\obj\x86\Debug\CompiladorX.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Documents\Visual Studio 2010\Projects\CompiladorXX\CompiladorX\obj\x86\Debug\CompiladorX.Form1.resources
+C:\Users\Marcos\Documents\Visual Studio 2010\Projects\CompiladorXX\CompiladorX\obj\x86\Debug\CompiladorX.Properties.Resources.resources
+C:\Users\Marcos\Documents\Visual Studio 2010\Projects\CompiladorXX\CompiladorX\obj\x86\Debug\CompiladorX.csproj.GenerateResource.Cache
+C:\Users\Marcos\Documents\Visual Studio 2010\Projects\CompiladorXX\CompiladorX\bin\Debug\CompiladorX.exe
+C:\Users\Marcos\Documents\Visual Studio 2010\Projects\CompiladorXX\CompiladorX\bin\Debug\CompiladorX.pdb
+C:\Users\Marcos\Documents\Visual Studio 2010\Projects\CompiladorXX\CompiladorX\obj\x86\Debug\CompiladorX.exe
+C:\Users\Marcos\Documents\Visual Studio 2010\Projects\CompiladorXX\CompiladorX\obj\x86\Debug\CompiladorX.pdb
